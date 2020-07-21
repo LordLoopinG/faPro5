@@ -7,7 +7,7 @@ l'important c'est que tous les dossiers persent soit ensembles
 
 utiliser le code ci dessous dans votre balise head 
 
-<link rel="stylesheet" href="leCheminVersLeDossierFontAwesome/css/all.css">
+<pre> < link rel="stylesheet" href="leCheminVersLeDossierFontAwesome/css/all.css" ></pre>
 
 
 and voilà
